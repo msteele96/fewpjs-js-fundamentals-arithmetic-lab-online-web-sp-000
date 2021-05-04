@@ -9,5 +9,5 @@ function multiply(num1, num2) {
 }
 
 function random() {
-  Math.floor(Math.random()*10)
+  Math.floor(Math.random()*10) + 1
 }
